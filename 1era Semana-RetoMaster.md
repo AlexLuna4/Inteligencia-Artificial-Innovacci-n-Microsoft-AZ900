@@ -3,6 +3,6 @@
 
 # La Nube
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.tynmagazine.com%2Fel-futuro-empresarial-esta-en-la-nube%2F&psig=AOvVaw1Je6ZEqPAh78YrkUnARHCK&ust=1620667617399000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOCw6cGPvfACFQAAAAAdAAAAABAP)
+![image](https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2019/06/El-futuro-empresarial-est%C3%A1-en-la-nube-e1560566724502.png)
 
 Es una prestacion de servicios informaticos a traves de internet, estos servicios incluyen servidores, almacenamiento, bases de datos, redes, software, análisis e inteligencia.
