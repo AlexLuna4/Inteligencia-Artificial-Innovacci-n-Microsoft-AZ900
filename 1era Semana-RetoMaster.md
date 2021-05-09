@@ -1,6 +1,3 @@
-### RETO MASTER 
-## AQUI VA LO DEL RETO DE LA PRIMERA SEMANA
-
 # La Nube
 
 ![image](https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2019/06/El-futuro-empresarial-est%C3%A1-en-la-nube-e1560566724502.png)
