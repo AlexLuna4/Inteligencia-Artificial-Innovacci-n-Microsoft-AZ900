@@ -55,3 +55,7 @@ Nube híbrida
 
     Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se 
     compartan entre ellos.
+
+
+
+holanoaguapa
