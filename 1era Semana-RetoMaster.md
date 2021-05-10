@@ -1,7 +1,8 @@
 # Azure
 
 Azure es una plataforma de servicios en la nube para ayudar a crear soluciones dependiendo de las
-necesidades de su empresa. Es por esto que cuenta con una gran variedad de servicios.
+necesidades de su empresa. Es por esto que cuenta con una gran variedad de servicios. Algunos 
+ejemplos son Redes, Almacenamiento, Móvil, Bases de datos.
 
 ![image](https://user-images.githubusercontent.com/83619479/117604574-6021e700-b11b-11eb-84bf-abbda260ba26.png)
 
@@ -35,6 +36,8 @@ Software as a service (SaaS)
 En la siguiente imagen se puede obervar cómo se delegan las responsabilidades de los diferentes servicios en la nube con el proveedor y el que obtiene los servicios
 ![image](https://user-images.githubusercontent.com/83619479/117605150-b0e60f80-b11c-11eb-9fb7-e318cb15d3db.png)
 
+Una de las ventajas de la nube es que solamente pagas por lo que utilizas, por lo cual se aprovecha al 100% todo lo que estés pagando. De esta manera tu empresa no invierte en algo como un servidor compelto que no estarían utilizando.
+
 
 # Tipos de nubes
 
@@ -57,9 +60,3 @@ Nube híbrida
     compartan entre ellos.
 
 
-
-holanoaguapa
-
-
-
-ultima y nos vamos
