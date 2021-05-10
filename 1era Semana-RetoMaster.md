@@ -90,3 +90,5 @@ Recursos
     o bases de datos.
             
 ![image](https://user-images.githubusercontent.com/83619479/117606811-48992d00-b120-11eb-9399-a02874c47cd1.png)
+
+Toda la información recuperada fue obtenida por medio de: https://docs.microsoft.com/en-us/learn/browse/ 
