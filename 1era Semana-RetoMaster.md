@@ -1,6 +1,6 @@
 # La Nube
 
-#esto es una prueba para ver si se queda
+Esto es una prueba para ver si se queda
 
 ![image](https://tynmedia.com/tynmag/wp-content/uploads/sites/3/2019/06/El-futuro-empresarial-est%C3%A1-en-la-nube-e1560566724502.png)
 
