@@ -18,20 +18,20 @@ almacenamiento, bases de datos, redes, software, análisis e inteligencia.
 
 Infraestructure as a service (IaaS)
 
-      Este modelo de servicio en la nube es el más cercano a la gestión de servidores físicos. El proveedor de la nube mantiene
-      el hardware actualizado, pero el mantenimiento del sistema operativo y la configuración de la red se dejan al inquilino 
-      de la nube.
+    Este modelo de servicio en la nube es el más cercano a la gestión de servidores físicos. El proveedor de la nube mantiene
+    el hardware actualizado, pero el mantenimiento del sistema operativo y la configuración de la red se dejan al inquilino 
+    de la nube.
       
 Platform as a service (PaaS)
       
-      En este modelo de servicio en la nube, el proveedor de la nube administra las máquinas virtuales y los recursos de red, y
-      el inquilino de la nube implementa sus aplicaciones en el entorno de alojamiento administrado.
+    En este modelo de servicio en la nube, el proveedor de la nube administra las máquinas virtuales y los recursos de red, y
+    el inquilino de la nube implementa sus aplicaciones en el entorno de alojamiento administrado.
       
 Software as a service (SaaS)
 
-      En este modelo de servicio en la nube, el proveedor de la nube gestiona todos los aspectos del entorno de la aplicación,
-      como máquinas virtuales, recursos de red, almacenamiento de datos y aplicaciones. El inquilino de la nube solo necesita
-      proporcionar sus datos a la aplicación administrada por el proveedor de la nube.
+    En este modelo de servicio en la nube, el proveedor de la nube gestiona todos los aspectos del entorno de la aplicación,
+    como máquinas virtuales, recursos de red, almacenamiento de datos y aplicaciones. El inquilino de la nube solo necesita
+    proporcionar sus datos a la aplicación administrada por el proveedor de la nube.
 
 En la siguiente imagen se puede obervar cómo se delegan las responsabilidades de los diferentes servicios en la nube con el proveedor y el que obtiene los servicios
 ![image](https://user-images.githubusercontent.com/83619479/117605150-b0e60f80-b11c-11eb-9fb7-e318cb15d3db.png)
@@ -58,5 +58,35 @@ Nube híbrida
 
     Este entorno informático combina una nube pública y una nube privada al permitir que los datos y las aplicaciones se 
     compartan entre ellos.
+    
+# Estructura organizativa para los recursos en Azure
 
+La estructura organizativa para los recursos en Azure tiene 4 niveles: management groups (grupos de administración), 
+subscriptions (subscripciones), resource groups (grupos de recursos), y resources (recursos).
 
+![image](https://user-images.githubusercontent.com/83619479/117606457-834e9580-b11f-11eb-9971-4f969861c74d.png)
+
+Grupos de administración: 
+
+    Estos grupos son los que se encargan administrar el acceso, las políticas y el cumplimiento de varias 
+    suscripciones. Todas las suscripciones en un grupo de administración heredan automáticamente las 
+    condiciones aplicadas al grupo de administración.
+            
+Suscripciones     
+
+    Una suscripción agrupa las cuentas de usuario y los recursos que han sido creados por esas cuentas de 
+    usuario. Para cada suscripción, existen límites o cuotas en la cantidad de recursos que puede crear y 
+    usar. Las organizaciones pueden usar suscripciones para administrar los costos y los recursos que 
+    crean los usuarios, equipos o proyectos.
+
+Grupos de recursos
+            
+    Los recursos se combinan en grupos de recursos, que actúan como un contenedor en el que se implementan 
+    y administran recursos de Azure, como aplicaciones web, bases de datos y cuentas de almacenamiento.
+            
+Recursos
+ 
+    Los recursos son instancias de servicios que el usuario crea como: máquinas virtuales, almacenamiento 
+    o bases de datos.
+            
+![image](https://user-images.githubusercontent.com/83619479/117606811-48992d00-b120-11eb-9399-a02874c47cd1.png)
